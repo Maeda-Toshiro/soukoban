@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class GameManagerScript : MonoBehaviour
 {
+    public GameObject playerPrefab;
     int[,] map;
 
     /// <summary>
